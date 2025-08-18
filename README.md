@@ -31,3 +31,10 @@
 | 1 | [assignment_04_task_01.py](assignment_04/assignment_04_task_01.py) | Read a File and Handle Errors   |
 | 2 | [assignment_04_task_02.py](assignment_04/assignment_04_task_02.py) | Write and Append Data to a File |
 
+## Assignment 5: Module 6: Data Structures and Strings in Python
+
+| # | Script                                                             | Task                                 |
+|---|--------------------------------------------------------------------|--------------------------------------|
+| 1 | [assignment_05_task_01.py](assignment_05/assignment_05_task_01.py) | Create a Dictionary of Student Marks |
+| 2 | [assignment_05_task_02.py](assignment_05/assignment_05_task_02.py) | Demonstrate List Slicing             |
+
