@@ -38,3 +38,9 @@
 | 1 | [assignment_05_task_01.py](assignment_05/assignment_05_task_01.py) | Create a Dictionary of Student Marks |
 | 2 | [assignment_05_task_02.py](assignment_05/assignment_05_task_02.py) | Demonstrate List Slicing             |
 
+## Assignment 6: Module 10 & 11: Calculator using Tkinter
+
+| # | Script                                             | Task                     |
+|---|----------------------------------------------------|--------------------------|
+| 1 | [assignment_06.py](assignment_06/assignment_06.py) | Calculator using Tkinter |
+
