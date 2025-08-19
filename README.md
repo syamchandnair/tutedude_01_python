@@ -44,3 +44,10 @@
 |---|----------------------------------------------------|--------------------------|
 | 1 | [assignment_06.py](assignment_06/assignment_06.py) | Calculator using Tkinter |
 
+# Assignment 7: Module 12: Building Database Apps with PostgreSQL & Python
+| # | Script/Document                                    | Task                           |
+|---|----------------------------------------------------|--------------------------------|
+| 1 | [assignment_07.py](assignment_07/assignment_07.py) | Database handling using Python |
+| 2 | [Mdodule 12.pdf](assignment_07/Module_12.pdf)      | Documentation and screenshots  |
+
+
